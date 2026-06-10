@@ -14,24 +14,6 @@ Rules to solve any patterns :
 
 
 """
-# n = 4
-# def printpatten(n):
-#     for i in range(n):
-#         for i in range(n):
-#             print("*")
-#         print()
-
-# printpatten(n)
-
-
-
-# def printpattern(n):
-#     for i in range(n):
-#         for j in range(n):
-#             print("*", end=" ")
-#         print()   # move to next line after each row
-
-# printpattern(n)
 
 
 n = 4
